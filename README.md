@@ -1,20 +1,20 @@
 # 史上最简单的 IntelliJ IDEA 教程
 
-![author](https://img.shields.io/badge/author-chariesgavin-blueviolet.svg)![lover](https://img.shields.io/badge/lover-xiaoxue-red.svg)![last commit](https://img.shields.io/github/last-commit/guobinhit/intellij-idea-tutorial.svg)![issues](https://img.shields.io/github/issues/guobinhit/intellij-idea-tutorial.svg)![stars](https://img.shields.io/github/stars/guobinhit/intellij-idea-tutorial.svg)![forks](	https://img.shields.io/github/forks/guobinhit/intellij-idea-tutorial.svg)![license](https://img.shields.io/github/license/guobinhit/intellij-idea-tutorial.svg)
+![author](https://img.shields.io/badge/author-chariesgavin-blueviolet.svg)![last commit](https://img.shields.io/github/last-commit/guobinhit/intellij-idea-tutorial.svg)![issues](https://img.shields.io/github/issues/guobinhit/intellij-idea-tutorial.svg)![stars](https://img.shields.io/github/stars/guobinhit/intellij-idea-tutorial.svg)![forks](	https://img.shields.io/github/forks/guobinhit/intellij-idea-tutorial.svg)![license](https://img.shields.io/github/license/guobinhit/intellij-idea-tutorial.svg)
 
-## 前言
+## 前言 
 
 　　IntelliJ IDEA（简称 IDEA），是 Java 语言开发的集成环境，IDEA 在业界被公认为最好的 Java 开发工具之一，尤其在智能代码助手、代码自动提示、重构、J2EE 支持、各类版本工具（Git、SVN、GitHub 等）、JUnit、CVS 整合、代码分析和创新的 GUI 设计等方面的功能都值得称道。至于 Eclipse 本人接触的不多，因此也无法比较，但殊途同归，无论选择什么集成开发环境，都是为了辅助咱们编程，所以可以说：**没有最好的工具，只有最适合自己的工具**。因此，撰写本系列文章的目的很简单，就是想把自己的经验整理记录下来，当然，如果能够在此基础上帮助大家快速入门并掌握 Intellij IDEA 那就再好不过啦！
   
 - **温馨提示**：此教程使用的工具为`IntelliJ IDEA 2017(.1.5)`版本
 - **官网地址**：http://www.jetbrains.com/idea/download
-- **免费激活码**：https://guobinhit.blog.csdn.net/article/details/89040919
 
 
 ## 索引
 
 - [基础教程](#基础教程)
 - [实用技巧](#实用技巧)
+- [疑难杂症](#疑难杂症)
 - [星路历程](#星路历程)
 
 
@@ -83,7 +83,11 @@
   - [详述使用 IntelliJ IDEA 解决 jar 包冲突的问题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/conflict-jar.md)
 
 
+## 疑难杂症
 
+- [详述 IntelliJ IDEA 遇到 java -source 1.3 中不支持某某操作的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/difficult-cases/java-source.md)
+- [详述 IntelliJ IDEA 遇到 JavaLaunchHelper 多种实现的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/difficult-cases/java-launch-helper.md)
+- [详述 IntelliJ IDEA 遇到快捷键以及删除键不好使的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/difficult-cases/keymap-delete.md)
 
 ## 星路历程
 
