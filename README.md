@@ -76,7 +76,7 @@
 - 彩色代码主题
   - [手把手教你设置 IntelliJ IDEA 彩色代码主题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/color-code.md)
 - 远程调试
-  - [详述 IntelliJ IDEA 远程调试 Tomcat 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/remote.md)
+  - [详述 IntelliJ IDEA 远程调试 Tomcat 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/the-method-of-remote-debugging-with-idea.md)
 - 代码对比
   - [利用 IntelliJ IDEA 进行代码对比的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/compare-code.md)
 - 依赖冲突
@@ -88,6 +88,9 @@
 - [详述 IntelliJ IDEA 遇到 java -source 1.3 中不支持某某操作的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/difficult-cases/java-source.md)
 - [详述 IntelliJ IDEA 遇到 JavaLaunchHelper 多种实现的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/difficult-cases/java-launch-helper.md)
 - [详述 IntelliJ IDEA 遇到快捷键以及删除键不好使的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/difficult-cases/keymap-delete.md)
+- [详述 IntelliJ IDEA 遇到 Maven 项目打开（Open）或者导入（Import）失败的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/difficult-cases/unable-import-maven-project.md)
+- [详述 IntelliJ IDEA 遇到 Maven 项目 pom.xml 文件没有识别的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/difficult-cases/maven-pom-unrecognized.md)
+
 
 ## 星路历程
 
